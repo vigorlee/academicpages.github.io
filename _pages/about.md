@@ -16,4 +16,4 @@ NEWS
 
 Aug 2024     Excited to attend the ICRA 2024 conference
 Jun 2024     Participate in the VPPC 2024 conference
-Oct 1, 2023   Incoming PhD student at CRG and MRG, Beijing Institute of Technology
+Oct 1, 2023   Incoming PhD student at CRG and MRG, Beijing Institute of Technology.
